@@ -44,10 +44,28 @@ Graduate Rotational Internship Program
 * Sample Solution: [Link](https://drive.google.com/file/d/1mQguC2gku2-QFruj09a30N0TYDwCmPkq/view)
 
 ## Objective
+
 * Create the Decision Tree classifier and visualize it graphically.
 * The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
 
 ## About The Data
 * Iris data contains 150 rows and 6 columns including Id, SepalLengthCm, SepalWidthCm, PetalLengthCm, PetalWidthCm, and Species. This dataset contains 3 classes of 50 instances each and each class refers to a type of iris plant (Iris-setosa, Iris-versicolor, and Iris-virginica).
 * Data source: [Link](https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view)
+* Data Format: .csv
+
+# Task - 3 (Level - Beginner)
+
+## **EDA on SampleSuperstore Data** 
+
+* You can choose any of the tool of your choice (Python/R/Tableau/PowerBI/Excel/SAP/SAS)
+* **Beginner Level -** Create dashboards. Screen-record along with your audio explaining the charts and interpretations.
+
+## Objective
+
+* Find out weak areas where you can work to make more profit.
+* What all the business problems you can derive by EDA?
+
+## About The Data
+* This 'SampleSuperstore' data contains 13 columns and 9,994 rows
+* Data source: [Link](https://drive.google.com/file/d/1lV7is1B566UQPYzzY8R2ZmOritTW299S/view)
 * Data Format: .csv
